@@ -9,10 +9,7 @@ class Program
     {
         Console.WriteLine("\n\nWelcome to an encryption/decryption tool for your text files...\n\n");
 
-        while (handleApp()) {
-    
-           
-        }
+        while (handleApp()) {}
     }
 
     static bool handleApp()
